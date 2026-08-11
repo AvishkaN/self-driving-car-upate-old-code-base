@@ -11,3 +11,5 @@ wheels/
 
 simulator_self_driving_car_exe
 .ipynb_checkpoints
+
+model/**/*.mp4

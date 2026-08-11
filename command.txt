@@ -6,3 +6,61 @@ python -m jupyter lab
 training.ipynb
 
 uv run inference.py
+
+
+---------------inferece print log-------------------------------------
+
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 33ms/step
+Time taken for prediction seconds: 0.067 s
+-0.9413371086120605 0.99979 0.0021
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 31ms/step
+Time taken for prediction seconds: 0.071 s
+-0.9413371086120605 0.99999 0.0001
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 32ms/step
+Time taken for prediction seconds: 0.067 s
+-0.9415414333343506 0.9947 0.053
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 42ms/step
+Time taken for prediction seconds: 0.088 s
+-0.941103458404541 0.96862 0.3138
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 32ms/step
+Time taken for prediction seconds: 0.069 s
+-0.9413611888885498 0.92494 0.7506
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 30ms/step
+Time taken for prediction seconds: 0.060 s
+-0.9407141208648682 0.89453 1.0547
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 31ms/step
+Time taken for prediction seconds: 0.070 s
+-0.9300308227539062 0.85624 1.4376
+(3192) accepted ('127.0.0.1', 59287)
+Connected
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 30ms/step
+Time taken for prediction seconds: 0.063 s
+-0.03281964734196663 1.0 0.0
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 31ms/step
+Time taken for prediction seconds: 0.094 s
+-0.03281964734196663 1.0 0.0
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 30ms/step
+Time taken for prediction seconds: 0.066 s
+-0.03278529644012451 0.9562 0.438
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 28ms/step
+Time taken for prediction seconds: 0.064 s
+-0.027309419587254524 0.781 2.19
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 30ms/step
+Time taken for prediction seconds: 0.062 s
+-0.03918452188372612 0.562 4.38
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 32ms/step
+Time taken for prediction seconds: 0.068 s
+-0.05346184968948364 0.4306 5.694
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 30ms/step
+Time taken for prediction seconds: 0.066 s
+-0.07836742699146271 0.5103500000000001 4.8965
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 26ms/step
+Time taken for prediction seconds: 0.066 s
+-0.06470225006341934 0.91765 0.8235
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 30ms/step
+Time taken for prediction seconds: 0.061 s
+-0.07000578939914703 0.80382 1.9618
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 29ms/step
+Time taken for prediction seconds: 0.066 s
+-0.07361821085214615 0.8555900000000001 1.4441
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 31ms/step
